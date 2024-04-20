@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+
+#headerSquirtle{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70x;
+}
+
+#headerSquirtle h1{
+    font-size: 30px;
+    color: white;
+}
+
+#navSquirtle{
+    background-color: gray;
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
+#navSquirtle ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+    margin-top: 0;
+    height: 60px;
+}
